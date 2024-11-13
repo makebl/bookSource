@@ -1,0 +1,16 @@
+{
+  "name": "book-source-analyzer",
+  "version": "1.0.0",
+  "description": "阅读书源分析工具",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "analyze": "node src/analyzer.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cheerio": "^1.0.0-rc.12",
+    "inquirer": "^8.2.4",
+    "puppeteer": "^21.5.2"
+  }
+}

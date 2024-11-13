@@ -1,0 +1,25 @@
+{
+  "bookSourceName": "示例书源",
+  "bookSourceUrl": "https://example.com",
+  "bookSourceGroup": "测试",
+  "enabled": true,
+  "searchUrl": "https://example.com/search?key={{key}}",
+  "ruleSearch": {
+    "bookList": "//div[@class='book-list']/div",
+    "name": "//h3[@class='book-title']/text()",
+    "author": "//p[@class='book-author']/text()",
+    "coverUrl": "//img[@class='book-cover']/@src",
+    "bookUrl": "//a[@class='book-link']/@href"
+  },
+  "ruleBookInfo": {
+    "name": "//h1[@class='book-name']/text()",
+    "author": "//span[@class='author']/text()",
+    "coverUrl": "//div[@class='book-cover']/img/@src",
+    "intro": "//div[@class='intro']/text()",
+    "lastChapter": "//div[@class='last-chapter']/a/text()",
+    "catalog": "//*[@id='catalog-list']"
+  },
+  "ruleContent": {
+    "content": "//*[@id='chapter-content']"
+  }
+}
