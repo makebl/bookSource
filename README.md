@@ -14,7 +14,7 @@
 ## 🔗 **v2ray / Clash 订阅链接**
 
 | **爬虫目标** | **订阅链接** | **订阅链接（[镜像网站加速](https://ghgo.xyz/)）** |
-| ------------ | ------------ | ------------------------------------------------ |
+|:------------------|:--------------------------------------------------------|:-----------------------------------------------------------|
 | **[yudou66](https://www.yudou66.com)** | [yudou66.txt](https://raw.githubusercontent.com/shidahuilang/node/main/nodes/yudou66.txt)<br>[yudou66.yaml](https://raw.githubusercontent.com/shidahuilang/node/main/nodes/yudou66.yaml) | [yudou66.txt](https://ghgo.xyz/raw.githubusercontent.com/shidahuilang/node/main/nodes/yudou66.txt)<br>[yudou66.yaml](https://ghgo.xyz/raw.githubusercontent.com/shidahuilang/node/main/nodes/yudou66.yaml) |
 | **[blues](https://blues2022.blogspot.com)** | 暂无链接 | 暂无链接 |
 | **[clashmeta](https://clash-meta.github.io)** | [clashmeta.txt](https://raw.githubusercontent.com/shidahuilang/node/main/nodes/clashmeta.txt)<br>[clashmeta.yaml](https://raw.githubusercontent.com/shidahuilang/node/main/nodes/clashmeta.yaml) | [clashmeta.txt](https://ghgo.xyz/raw.githubusercontent.com/shidahuilang/node/main/nodes/clashmeta.txt)<br>[clashmeta.yaml](https://ghgo.xyz/raw.githubusercontent.com/shidahuilang/node/main/nodes/clashmeta.yaml) |
